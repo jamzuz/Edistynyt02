@@ -1,0 +1,13 @@
+C:\Users\jesse\source\repos\EdistynytTentti02\EdistynytTentti02\bin\Debug\netcoreapp3.1\EdistynytTentti02.exe
+C:\Users\jesse\source\repos\EdistynytTentti02\EdistynytTentti02\bin\Debug\netcoreapp3.1\EdistynytTentti02.deps.json
+C:\Users\jesse\source\repos\EdistynytTentti02\EdistynytTentti02\bin\Debug\netcoreapp3.1\EdistynytTentti02.runtimeconfig.json
+C:\Users\jesse\source\repos\EdistynytTentti02\EdistynytTentti02\bin\Debug\netcoreapp3.1\EdistynytTentti02.runtimeconfig.dev.json
+C:\Users\jesse\source\repos\EdistynytTentti02\EdistynytTentti02\bin\Debug\netcoreapp3.1\EdistynytTentti02.dll
+C:\Users\jesse\source\repos\EdistynytTentti02\EdistynytTentti02\bin\Debug\netcoreapp3.1\EdistynytTentti02.pdb
+C:\Users\jesse\source\repos\EdistynytTentti02\EdistynytTentti02\obj\Debug\netcoreapp3.1\EdistynytTentti02.csprojAssemblyReference.cache
+C:\Users\jesse\source\repos\EdistynytTentti02\EdistynytTentti02\obj\Debug\netcoreapp3.1\EdistynytTentti02.AssemblyInfoInputs.cache
+C:\Users\jesse\source\repos\EdistynytTentti02\EdistynytTentti02\obj\Debug\netcoreapp3.1\EdistynytTentti02.AssemblyInfo.cs
+C:\Users\jesse\source\repos\EdistynytTentti02\EdistynytTentti02\obj\Debug\netcoreapp3.1\EdistynytTentti02.csproj.CoreCompileInputs.cache
+C:\Users\jesse\source\repos\EdistynytTentti02\EdistynytTentti02\obj\Debug\netcoreapp3.1\EdistynytTentti02.dll
+C:\Users\jesse\source\repos\EdistynytTentti02\EdistynytTentti02\obj\Debug\netcoreapp3.1\EdistynytTentti02.pdb
+C:\Users\jesse\source\repos\EdistynytTentti02\EdistynytTentti02\obj\Debug\netcoreapp3.1\EdistynytTentti02.genruntimeconfig.cache
